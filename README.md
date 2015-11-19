@@ -7,7 +7,8 @@
 
     * say that's the right spelling
     * suggest a correct spelling
-    * or show NO SUGGESTION
+    * show NO SUGGESTION
+    
   In addition there is another Ruby program (spelling_error_gen.rb)
   to generate some misspelled words so you can pipe this output into spellchecker.rb.
 
