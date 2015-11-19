@@ -1,10 +1,10 @@
 # Spellchecker
 
 ## Description
-  ### This is a Ruby program (spellchecker.rb) that reads in a dictionary file of
+  This is a Ruby program (spellchecker.rb) that reads in a dictionary file of
   English words (dictionary.txt) and prompts the user to input a word.
   It will then either:
-  
+
     * say that's the right spelling
     * suggest a correct spelling
     * or show NO SUGGESTION
